@@ -1,0 +1,16 @@
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.exe
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.deps.json
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.runtimeconfig.json
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.runtimeconfig.dev.json
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.dll
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\ref\criandovariaveis.dll
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\bin\Debug\net5.0\criandovariaveis.pdb
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.csproj.AssemblyReference.cache
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.AssemblyInfoInputs.cache
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.AssemblyInfo.cs
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.csproj.CoreCompileInputs.cache
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.dll
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\ref\criandovariaveis.dll
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.pdb
+C:\Users\lucas.felipe\Downloads\C#_primeira_aula\criandovariaveis\obj\Debug\net5.0\criandovariaveis.genruntimeconfig.cache
