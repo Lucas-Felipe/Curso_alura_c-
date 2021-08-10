@@ -1,5 +1,8 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace primeiro_programa
 {
@@ -7,6 +10,25 @@ namespace primeiro_programa
     {
         static void Main(string[] args)
         {
+            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            
+
+            //Console.WriteLine("\n "+t.bonificacao());
+
+            Funcionarios.Diretor y = new Funcionarios.Diretor(456789,20000);
+            y.Nome = "roberta";
+            y.aumentarSalario();
+            
+            gerenciador.registrar(y);
+
+            //Console.WriteLine(gerenciador.Total);
+
+            Console.WriteLine("total func.: " + Funcionarios.Funcionarios.QteFuncionarios);
+
+            Console.WriteLine(y.Nome+" "+y.CPF+" "+y.Salario);
+
+            Console.WriteLine("--------------------------------------------------------------------------------");
+
             ContaCorrente a = new ContaCorrente();
             ContaCorrente b = new ContaCorrente();
 
@@ -39,6 +61,8 @@ namespace primeiro_programa
             b.transferencia(50, a);
             b.imprime();
             a.imprime();
+
+            
         }
     }
 }

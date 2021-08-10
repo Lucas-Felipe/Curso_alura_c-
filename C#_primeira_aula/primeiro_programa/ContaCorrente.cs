@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using primeiro_programa;
 
 public class ContaCorrente
@@ -13,6 +17,7 @@ public class ContaCorrente
     public int NumeroConta { get; set; }
     public double Saldo { get; set; }
 
+    public ContaCorrente() { }
 
     public void imprime()
     {
