@@ -11,10 +11,10 @@ namespace primeiro_programa
 
         private double _total;
 
-        public double Total { get; set; }
+        public double GetTotal() { return _total; }
         public void registrar(Funcionarios.Funcionarios funcionario)
         {
-            Total+=funcionario.bonificacao();
+            _total+=funcionario.bonificacao();
         }
     }
 }

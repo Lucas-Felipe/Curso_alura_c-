@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace primeiro_programa.Funcionarios
 {
-    public class Diretor : FuncionarioAutenticavel
+    class Designer:Funcionarios
     {
-        public Diretor(int cpf):base(cpf,5000)
+        public Designer(double cpf) : base(3000, cpf)
         {
 
         }
+
         public override void aumentarSalario()
         {
-            Salario *= 1.15;
+            Salario *= 1.11;
         }
         public override double bonificacao()
         {
-            return Salario*0.5;
+            return Salario * 0.17;
         }
-       
     }
 }

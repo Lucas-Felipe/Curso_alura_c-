@@ -15,7 +15,7 @@ namespace primeiro_programa
 
             //Console.WriteLine("\n "+t.bonificacao());
 
-            Funcionarios.Diretor y = new Funcionarios.Diretor(456789,20000);
+            Funcionarios.Diretor y = new Funcionarios.Diretor(456789);
             y.Nome = "roberta";
             y.aumentarSalario();
             
@@ -62,7 +62,54 @@ namespace primeiro_programa
             b.imprime();
             a.imprime();
 
+            calculaBonificacao();
+            Console.WriteLine("\n-------------------------------------------------------------------\n");
+            UsarSistema();
             
         }
+
+        public static void calculaBonificacao()
+        {
+            GerenciadorBonificacao gerenb = new GerenciadorBonificacao();
+
+            Funcionarios.Funcionarios a = new Funcionarios.Designer(123);
+            Funcionarios.Funcionarios b = new Funcionarios.Diretor(456);
+            Funcionarios.Funcionarios c = new Funcionarios.Auxiliar(789);
+            Funcionarios.Funcionarios d = new Funcionarios.GerenteDeConta(963);
+
+            Funcionarios.Desenvolvedor e = new Funcionarios.Desenvolvedor(852);
+
+            gerenb.registrar(a);
+            gerenb.registrar(b);
+            gerenb.registrar(c);
+            gerenb.registrar(d);
+            gerenb.registrar(e);
+
+            Console.WriteLine("\n------------------------------------------------------\n" +
+                "total de bonificacao: "+gerenb.GetTotal());
+        }
+
+        public static void UsarSistema()
+        {
+            Sistemas.SistemaInterno system = new Sistemas.SistemaInterno();
+
+            Funcionarios.Diretor a = new Funcionarios.Diretor(123);
+            Funcionarios.GerenteDeConta d = new Funcionarios.GerenteDeConta(963);
+
+            ParceiroComercial parceiro = new ParceiroComercial();
+            parceiro.Senha = "123";
+
+            a.Nome = "cavalo";
+            a.Senha = "789";
+
+            d.Nome = "cavala";
+            d.Senha = "456";
+
+            system.Logar(parceiro, "123");
+            system.Logar(a, "789");
+            system.Logar(d, "456");
+           
+        }
     }
+
 }

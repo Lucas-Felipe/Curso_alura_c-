@@ -9,10 +9,7 @@ namespace primeiro_programa.Funcionarios
     public abstract class Funcionarios
     {
         public static int QteFuncionarios { get; private set; }
-
-        private string _nome;
-        private int _cpf;
-        private double _salario;
+       
 
         public string Nome { get; set; }
         public int CPF { get; private set; }
@@ -25,14 +22,10 @@ namespace primeiro_programa.Funcionarios
             QteFuncionarios++;
         }
 
-        public virtual double bonificacao()
-        {
-            return Salario * 0.10;
-        }
+        public abstract double bonificacao();
+        
 
-        public virtual void aumentarSalario()
-        {
-            Salario *= 1.1;
-        }
+        public abstract void aumentarSalario();
+        
     }
 }
