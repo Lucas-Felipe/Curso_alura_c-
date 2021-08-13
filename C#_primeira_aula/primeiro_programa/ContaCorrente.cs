@@ -7,17 +7,25 @@ using primeiro_programa;
 
 public class ContaCorrente
 {
-    private Cliente _titular;
+    private Cliente _titular=new Cliente();
     private int _numeroAgencia;
     private int _numeroConta;
-    private double _saldo;
-
+    private double _saldo=100;
+    public static double Taxa { get; private set; }
+    public static int TotalDeContas { get; private set; }
     public Cliente Titular { get; set; }
     public int NumeroAgencia { get; set; }
     public int NumeroConta { get; set; }
     public double Saldo { get; set; }
 
-    public ContaCorrente() { }
+    public ContaCorrente(int agencia,int numero) 
+    {
+        NumeroAgencia = agencia;
+        NumeroConta = numero;
+
+        Taxa = 30/TotalDeContas;
+        TotalDeContas++;
+    }
 
     public void imprime()
     {

@@ -1,0 +1,16 @@
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.AssemblyInfoInputs.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.AssemblyInfo.cs
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.exe
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.deps.json
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.runtimeconfig.json
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.runtimeconfig.dev.json
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\ref\Programa2_excecoes.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\bin\Debug\net5.0\Programa2_excecoes.pdb
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\ref\Programa2_excecoes.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.pdb
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.genruntimeconfig.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Programa2_excecoes\obj\Debug\net5.0\Programa2_excecoes.csproj.AssemblyReference.cache
