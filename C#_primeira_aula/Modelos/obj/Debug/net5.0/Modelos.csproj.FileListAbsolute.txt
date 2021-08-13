@@ -1,0 +1,12 @@
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfo.cs
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\bin\Debug\net5.0\Modelos.deps.json
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\bin\Debug\net5.0\Modelos.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\bin\Debug\net5.0\ref\Modelos.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\bin\Debug\net5.0\Modelos.pdb
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\ref\Modelos.dll
+C:\Users\lucas.felipe\Downloads\Curso_alura_c-\C#_primeira_aula\Modelos\obj\Debug\net5.0\Modelos.pdb

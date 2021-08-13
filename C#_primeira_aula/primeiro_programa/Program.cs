@@ -29,7 +29,7 @@ namespace primeiro_programa
 
             Console.WriteLine("--------------------------------------------------------------------------------");
 
-            ContaCorrente a = new ContaCorrente();
+            /* ContaCorrente a = new ContaCorrente();
             ContaCorrente b = new ContaCorrente();
 
             Cliente c = new Cliente();
@@ -65,7 +65,7 @@ namespace primeiro_programa
             calculaBonificacao();
             Console.WriteLine("\n-------------------------------------------------------------------\n");
             UsarSistema();
-            
+            */
         }
 
         public static void calculaBonificacao()
