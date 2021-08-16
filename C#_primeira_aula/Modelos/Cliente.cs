@@ -16,10 +16,11 @@ namespace Modelos
         public int CPF { get; }
         public string Profission { get; private set; }
 
-        public Cliente(string nome, int cpf)
+        public Cliente(string nome, int cpf,string profissao)
         {
             Nome = nome;
             CPF = cpf;
+            Profission = profissao;
         }
     }
 }

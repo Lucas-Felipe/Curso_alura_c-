@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Modelos
 {
+    /// <summary> 
+    /// Representa uma conta corrente!
+    /// </summary>
     public class ContaCorrente
     {
         private readonly Cliente _titular;
@@ -14,6 +17,8 @@ namespace Modelos
         private readonly double _saldo = 0;
         public static double Taxa { get; private set; }
         public static int TotalDeContas { get; private set; }
+
+       
         public Cliente Titular
         {
             get
@@ -40,7 +45,15 @@ namespace Modelos
         }
         public double Saldo { get; private set; }
 
-        public ContaCorrente(int agencia, int numero, string nome, int cpf)
+        /// <summary>
+        /// Construtor da conta corrente
+        /// </summary>
+        /// <param name="agencia">Número da Agência</param>
+        /// <param name="numero"> Número da conta</param>
+        /// <param name="nome">Nome do Titular</param>
+        /// <param name="cpf">CPF do Titular</param>
+        /// <param name="profissao">Profissão do tituular</param>
+        public ContaCorrente(int agencia, int numero, string nome, int cpf,string profissao)
         {
             if (agencia == 0)
             {
@@ -53,7 +66,7 @@ namespace Modelos
 
             _numeroAgencia = agencia;
             _numeroConta = numero;
-            _titular = new Cliente(nome, cpf);
+            _titular = new Cliente(nome, cpf,profissao);
 
             TotalDeContas++;
 
